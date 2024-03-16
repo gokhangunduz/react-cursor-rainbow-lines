@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gokhangunduz/cursor-rainbow-lines.git"
+    "url": "git+https://github.com/gokhangunduz/react-cursor-rainbow-lines.git"
   },
   "keywords": [
     "react",
